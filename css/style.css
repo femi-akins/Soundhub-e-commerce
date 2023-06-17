@@ -328,7 +328,7 @@ button.white {
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(../img/slide-5.jpg);
+    background-image: url(../img/banner1.jpg);
     width: 540px;
     height: 50vh;
     background-size: cover;
@@ -337,7 +337,7 @@ button.white {
 }
 
 #sm-banner .banner-box2 {
-    background-image: url(../img/slide-2.jpg);
+    background-image: url(../img/banner2.jpg);
 }
 
 #sm-banner h4{
@@ -392,7 +392,7 @@ button.white {
 }
 
 #banner3 .banner-box3 {
-    background-image: url(../img/slide-3.jpg);
+    background-image: url(../img/banner2.jpg);
 }
 
 #banner3 h2 {
